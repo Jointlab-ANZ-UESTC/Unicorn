@@ -1,0 +1,8 @@
+#cvs files
+./log
+
+*.csv 
+
+./.vscode
+
+*.json
